@@ -1,5 +1,8 @@
-# eos price gnome ticket 
+# eos gnome price ticker
 
-Gnome 3 desktop ticker for eos price with Python and argos. Rename to eos.1r.60s.py and put in ~/.config/argos
+Get eos price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/eos-price-gnome-ticket/](https://codesharedot.github.io/eos-price-gnome-ticket/)
 
-https://pythonbasics.org
+eos price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to eos.1r60s.py and put in ~/.config/argos
